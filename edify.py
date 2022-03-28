@@ -188,7 +188,7 @@ def textfilequotes1(img, config):
                 fontstring = "JosefinSans-Regular"
                 y_text= -62
                 height= 19
-                width= 31
+                width= 29
                 fontsize=17
                 img, numline =writewrappedlines(img,quote,fontsize,y_text,height, width,fontstring)
                 draw = ImageDraw.Draw(img) 
