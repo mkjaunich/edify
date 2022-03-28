@@ -1,0 +1,8 @@
+screen:
+  invert: false
+ticker:
+  updatefrequency: 10
+function: 
+  mode: redditquotes, textfilequotes, wordaday, textfilequotes1
+  weight: 0,0,0,1
+
