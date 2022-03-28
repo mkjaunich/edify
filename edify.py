@@ -186,7 +186,7 @@ def textfilequotes1(img, config):
             logging.info("Manual File")
             if  len(source)<=30:
                 fontstring = "JosefinSans-Regular"
-                y_text= -62
+                y_text= -55
                 height= 19
                 width= 29
                 fontsize=17
